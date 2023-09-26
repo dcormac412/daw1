@@ -28,7 +28,10 @@ public class clase2 {
 		System.out.println("10. El resultado de restar el doble de d2 a un cuarto de d1 es : " + (d2*2-d1/3));
 		
 		System.out.println("11. El resultado de multiplicar d2 por 100 y restarle d1 es: " + (d2*100-d1));
+		
 		System.out.println("12. El resultado de multiplicar d2 por 50 más d1 y todo ello dividirlo entre 10 es : " +(d2*50+d1)/10);
+		
+        System.out.println("                                                                                                                    Tarea realizada por Daniel Cortés Macías");
 		
 
 	}
