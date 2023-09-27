@@ -7,8 +7,9 @@ public class ejercicio7 {
 		double equiv = 1.06;
 		double euro = 220;
 		double conversion = euro*equiv;
-		System.out.println(euro + "€ equivalen a " + conversion + " dolares ");
-
+		System.out.println(euro + " € equivalen a " + conversion + " $ ");
+		
+		
 	}
 
 }

@@ -10,10 +10,11 @@ public class ejercicio3 {
 		//System.out.println(" ******* ");
 		//System.out.println("*********");
 		
-		//System.out.println(
-		//"\t\t\t"
-		//		+ " *\n"
-		//		+""		
+		System.out.println(
+		"\t\t\t"
+				+ " *\n"
+			+"\t\t\t***\n"
+			+"\t\t\t*****\n");	
 				
 
 	}

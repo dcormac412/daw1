@@ -8,7 +8,7 @@ public class ejercicio5 {
 		String direccion = "Barriada la Paz, número 60";
 		String telefono = "610068145";
 		
-		System.out.println(nombre + "  ;  " + direccion  +  "   ;  " + telefono);
+		System.out.println(nombre + " ;  " + direccion  +  "  ;  " + telefono);
 
 	}
 
