@@ -23,8 +23,10 @@ public class ejercicio11 {
 		
 		String hola="hola";
 		String adios="adios";
-		
+	
 		System.out.println(hola + adios +a + y);
+		
+
 	}
 
 }
