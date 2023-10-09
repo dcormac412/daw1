@@ -12,7 +12,6 @@ public class calculaSegundos {
 		System.out.println("Introduce las horas");
 		int hora = scan.nextInt();
 		
-
 		System.out.println("Introduce los minutos");
 		int minutos = scan.nextInt();
 		
@@ -25,14 +24,10 @@ public class calculaSegundos {
 			
 			System.out.println("Los segundos que quedan son: " + seg + " para la medianoche ");
 			
-			
 		}else {
 			System.out.println("Hay un error en la introducción de los datos");
 		}
 		
-		
-
-
 	}
 
 }
